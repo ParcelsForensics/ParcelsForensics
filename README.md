@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ParcelsForensics
+- 👀 I’m interested in contributing to the Open Source digital forensics community
+- 🌱 I’m currently learning better and more efficient ways to collect data from remote endpoints for analysis 
+- 💞️ I’m looking to collaborate on tool testing, design, and development
+- 📫 How to reach me - Scott Pearson/spearson@parcelsinc.com
